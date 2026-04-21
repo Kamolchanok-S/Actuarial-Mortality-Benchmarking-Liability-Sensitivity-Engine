@@ -1,0 +1,95 @@
+Table Name:,PubG-2010 Male Retiree
+Table Identity:,3400
+Provider Domain:,soa.org
+Provider Name:,Retirement Plans Experience Committee
+Table Reference:,"Society of Actuaries, public-pension-amount-exposure.xlsx, Sheet 'PubG-2010', https://www.soa.org/resources/experience-studies/2018/public-pension-amount-exposure.xlsx"
+Content Type:,Annuitant Mortality
+Table Description:,"Pub-2010 Amount-weighted General Mortality Table - Male Retiree. Ages 50-120. Base Year July 1, 2010 - June 30, 2011."
+EffDate:,
+Comments:,Study Data: The primary focus of this study was a comprehensive review of recent mortality experience of public retirement plans in the United States. The final dataset upon which this study has been based includes approximately 46 million life-years of exposure and 580 thousand deaths from public pension systems across the United States. Data certified: 09/2018.
+Keywords:,"Aggregate,Annuitant Mortality,United States of America"
+
+Table # ,1
+Table Description:,"Pub-2010 Amount-weighted General Mortality Table - Male Retiree. Ages 50-120. Base Year July 1, 2010 - June 30, 2011."
+Nation:,United States of America
+Scaling Factor:,0
+Data Type:,Floating Point
+"Row, Column (if applicable)->id:",Age
+"Row, Column (if applicable)->ScaleType:",Age
+"Row, Column (if applicable)->AxisName:",Age
+"Row, Column (if applicable)->MinScaleValue:",50
+"Row, Column (if applicable)->MaxScaleValue:",120
+"Row, Column (if applicable)->Increment:",1
+
+Row\Column,1
+50,0.00298
+51,0.00321
+52,0.00346
+53,0.00372
+54,0.00401
+55,0.00431
+56,0.00463
+57,0.00497
+58,0.00533
+59,0.00573
+60,0.00615
+61,0.00661
+62,0.00713
+63,0.0077
+64,0.00836
+65,0.00913
+66,0.01003
+67,0.01108
+68,0.01229
+69,0.01368
+70,0.01526
+71,0.01703
+72,0.01904
+73,0.02129
+74,0.02384
+75,0.02671
+76,0.02995
+77,0.03361
+78,0.03775
+79,0.04243
+80,0.04774
+81,0.05374
+82,0.06052
+83,0.06811
+84,0.07656
+85,0.08591
+86,0.09615
+87,0.10733
+88,0.11947
+89,0.1326
+90,0.14672
+91,0.1617
+92,0.17745
+93,0.19392
+94,0.21107
+95,0.22888
+96,0.24731
+97,0.26634
+98,0.28589
+99,0.30586
+100,0.32609
+101,0.34636
+102,0.3664
+103,0.38604
+104,0.40512
+105,0.42352
+106,0.44113
+107,0.45786
+108,0.47364
+109,0.48843
+110,0.5
+111,0.5
+112,0.5
+113,0.5
+114,0.5
+115,0.5
+116,0.5
+117,0.5
+118,0.5
+119,0.5
+120,1

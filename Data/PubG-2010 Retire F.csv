@@ -1,0 +1,95 @@
+Table Name:,PubG-2010 Female Retiree
+Table Identity:,3399
+Provider Domain:,soa.org
+Provider Name:,Retirement Plans Experience Committee
+Table Reference:,"Society of Actuaries, public-pension-amount-exposure.xlsx, Sheet 'PubG-2010', https://www.soa.org/resources/experience-studies/2018/public-pension-amount-exposure.xlsx"
+Content Type:,Annuitant Mortality
+Table Description:,"Pub-2010 Amount-weighted General Mortality Table - Female Retiree. Ages 50-120. Base Year July 1, 2010 - June 30, 2011."
+EffDate:,
+Comments:,Study Data: The primary focus of this study was a comprehensive review of recent mortality experience of public retirement plans in the United States. The final dataset upon which this study has been based includes approximately 46 million life-years of exposure and 580 thousand deaths from public pension systems across the United States. Data certified 09/2018.
+Keywords:,"Aggregate,Annuitant Mortality,United States of America"
+
+Table # ,1
+Table Description:,"Pub-2010 Amount-weighted General Mortality Table - Female Retiree. Ages 50-120. Base Year July 1, 2010 - June 30, 2011."
+Nation:,United States of America
+Scaling Factor:,0
+Data Type:,Floating Point
+"Row, Column (if applicable)->id:",Age
+"Row, Column (if applicable)->ScaleType:",Age
+"Row, Column (if applicable)->AxisName:",Age
+"Row, Column (if applicable)->MinScaleValue:",50
+"Row, Column (if applicable)->MaxScaleValue:",120
+"Row, Column (if applicable)->Increment:",1
+
+Row\Column,1
+50,0.00222
+51,0.00233
+52,0.00246
+53,0.00259
+54,0.00272
+55,0.00286
+56,0.00301
+57,0.00318
+58,0.00336
+59,0.00358
+60,0.00384
+61,0.00416
+62,0.00454
+63,0.005
+64,0.00552
+65,0.00613
+66,0.00682
+67,0.0076
+68,0.00849
+69,0.0095
+70,0.01063
+71,0.01191
+72,0.01335
+73,0.01497
+74,0.01679
+75,0.01883
+76,0.02111
+77,0.02368
+78,0.02658
+79,0.02986
+80,0.0336
+81,0.03787
+82,0.04276
+83,0.04834
+84,0.05474
+85,0.06205
+86,0.07041
+87,0.07987
+88,0.09046
+89,0.10216
+90,0.11487
+91,0.12833
+92,0.14239
+93,0.15702
+94,0.17228
+95,0.18825
+96,0.20505
+97,0.22278
+98,0.24147
+99,0.26113
+100,0.2816
+101,0.30265
+102,0.32382
+103,0.34494
+104,0.36581
+105,0.38625
+106,0.40609
+107,0.42519
+108,0.44341
+109,0.46067
+110,0.4769
+111,0.49205
+112,0.5
+113,0.5
+114,0.5
+115,0.5
+116,0.5
+117,0.5
+118,0.5
+119,0.5
+120,1

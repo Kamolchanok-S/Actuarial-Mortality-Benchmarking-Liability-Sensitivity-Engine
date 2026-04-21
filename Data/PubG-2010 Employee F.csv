@@ -1,0 +1,87 @@
+Table Name:,PubG-2010 Female Employee
+Table Identity:,3397
+Provider Domain:,soa.org
+Provider Name:,Retirement Plans Experience Committee
+Table Reference:,"Society of Actuaries, public-pension-amount-exposure.xlsx, Sheet 'PubG-2010', https://www.soa.org/resources/experience-studies/2018/public-pension-amount-exposure.xlsx"
+Content Type:,Annuitant Mortality
+Table Description:,"Pub-2010 Amount-weighted General Mortality Table - Female Employee. Ages 18-80. Base Year July 1, 2010 - June 30, 2011."
+EffDate:,
+Comments:,Study Data: The primary focus of this study was a comprehensive review of recent mortality experience of public retirement plans in the United States. The final dataset upon which this study has been based includes approximately 46 million life-years of exposure and 580 thousand deaths from public pension systems across the United States. Data certified: 09/2018.
+Keywords:,"Aggregate,Annuitant Mortality,United States of America"
+
+Table # ,1
+Table Description:,"Pub-2010 Amount-weighted General Mortality Table - Female Employee. Ages 18-80. Base Year July 1, 2010 - June 30, 2011."
+Nation:,United States of America
+Scaling Factor:,0
+Data Type:,Floating Point
+"Row, Column (if applicable)->id:",Age
+"Row, Column (if applicable)->ScaleType:",Age
+"Row, Column (if applicable)->AxisName:",Age
+"Row, Column (if applicable)->MinScaleValue:",18
+"Row, Column (if applicable)->MaxScaleValue:",80
+"Row, Column (if applicable)->Increment:",1
+
+Row\Column,1
+18,0.00013
+19,0.00013
+20,0.00013
+21,0.00012
+22,0.00011
+23,0.0001
+24,9E-05
+25,9E-05
+26,0.0001
+27,0.00011
+28,0.00012
+29,0.00013
+30,0.00015
+31,0.00016
+32,0.00018
+33,0.00019
+34,0.00021
+35,0.00023
+36,0.00025
+37,0.00028
+38,0.0003
+39,0.00033
+40,0.00036
+41,0.0004
+42,0.00043
+43,0.00047
+44,0.00051
+45,0.00056
+46,0.00061
+47,0.00066
+48,0.00071
+49,0.00077
+50,0.00083
+51,0.0009
+52,0.00097
+53,0.00105
+54,0.00113
+55,0.00123
+56,0.00133
+57,0.00144
+58,0.00156
+59,0.0017
+60,0.00186
+61,0.00203
+62,0.00222
+63,0.00244
+64,0.00269
+65,0.00296
+66,0.00327
+67,0.00362
+68,0.004
+69,0.00442
+70,0.00489
+71,0.00541
+72,0.00598
+73,0.00661
+74,0.00731
+75,0.00808
+76,0.00893
+77,0.00986
+78,0.0109
+79,0.01204
+80,0.0133
